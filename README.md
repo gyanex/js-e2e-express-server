@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/rahultiwari0931/pipeline%20tutorial/_apis/build/status/gyanex.js-e2e-express-server?branchName=main)](https://dev.azure.com/rahultiwari0931/pipeline%20tutorial/_build/latest?definitionId=1&branchName=main)
 ---
 page_type: sample
 languages:
